@@ -27,4 +27,4 @@ sg::nodeResponse::nodeResponse(const nodeResponse& nR)
 }
 
 sg::nodeResponse::~nodeResponse()
-{}
+{} 
